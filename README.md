@@ -1,8 +1,8 @@
 <h1 align="center">
     Awesome Skills
 </h1>
-<p align="center">
-        <a href="https://commandcode.ai/skills"
+
+<a href="https://commandcode.ai/skills"
 target="_blank">
             <img src="https://github-production-user-
 asset-6210df.s3.amazonaws.com/98694380/530073383-
@@ -13,8 +13,8 @@ Credential=AKIAVCODYLSA53PQK4ZA%2F20251224%2Fus-east-
 Amz-Expires=300&X-Amz-
 Signature=919dd46141a3bc70335f416ea89fb81c8240c6de057a
 5162baf7124fe5ab7efe&X-Amz-SignedHeaders=host">
-        </a>
-</p>
+ </a>
+
 A curated list of practical Skills for enhancing workflows and capabilities of coding agents.
 
 <br />
