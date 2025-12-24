@@ -1,0 +1,25 @@
+name: Request a new agent
+description: Propose a new agent to awesome-agents.
+labels: []
+body:
+    - type: markdown
+      attributes:
+          value: |
+              Use this template to propose new agents for awesome-agents. If you need help with your own project, feel free to [start a new thread in our discord forum](https://discord.com/invite/qz6VsMtvXU).
+    - type: textarea
+      attributes:
+          label: Agent Description
+          description: Describe the agent you are proposing. Include the API, framework, and AI provider.
+          placeholder: Agent description...
+      validations:
+          required: true
+    - type: textarea
+      attributes:
+          label: Use Case
+          description: Explain how this agent would be beneficial.
+          placeholder: Use case...
+    - type: textarea
+      attributes:
+          label: Additional Context
+          description: Any additional information that might help us understand your request.
+          placeholder: Additional context...
