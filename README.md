@@ -3,7 +3,7 @@
 </h1>
 
 <a href="https://commandcode.ai/skills" target="_blank">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/98694380/530073383-bb876c52-6d70-486d-94de-6178b973a72a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251224T185617Z&X-Amz-Expires=300&X-Amz-Signature=919dd46141a3bc70335f416ea89fb81c8240c6de057a5162baf7124fe5ab7efe&X-Amz-SignedHeaders=host">
+    <img src="https://github.com/user-attachments/assets/4f7d30fa-9482-4db0-8f59-25fb75c6edbd">
 </a>
 
 A curated list of practical Skills for enhancing workflows and capabilities of coding agents.
